@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163148473786",
+    "firebase_url": "https://valesim-d6615-default-rtdb.firebaseio.com",
+    "project_id": "valesim-d6615",
+    "storage_bucket": "valesim-d6615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163148473786:android:34204878d60ac25513a983",
+        "android_client_info": {
+          "package_name": "com.example.valesim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163148473786-sqis3rr0abeapqa4fg79tcpn76mitvht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.valesim",
+            "certificate_hash": "6f2e0c2119abc9e9d35cf0f94c16532661b87c6b"
+          }
+        },
+        {
+          "client_id": "163148473786-tlpbhqrcrslk8d0s5l8fgfa4613niagg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhjcO_fHxQ7RAem3wSPVhB6X9RB0qAyq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163148473786-tlpbhqrcrslk8d0s5l8fgfa4613niagg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
